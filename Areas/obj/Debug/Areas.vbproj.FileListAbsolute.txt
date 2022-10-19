@@ -1,0 +1,9 @@
+C:\Users\Jamie Smith\source\repos\Areas\Areas\bin\Debug\Areas.dll
+C:\Users\Jamie Smith\source\repos\Areas\Areas\bin\Debug\Areas.pdb
+C:\Users\Jamie Smith\source\repos\Areas\Areas\bin\Debug\Areas.xml
+C:\Users\Jamie Smith\source\repos\Areas\Areas\obj\Debug\Areas.vbprojAssemblyReference.cache
+C:\Users\Jamie Smith\source\repos\Areas\Areas\obj\Debug\Areas.vbproj.ResolveComReference.cache
+C:\Users\Jamie Smith\source\repos\Areas\Areas\obj\Debug\Areas.vbproj.CoreCompileInputs.cache
+C:\Users\Jamie Smith\source\repos\Areas\Areas\obj\Debug\Areas.dll
+C:\Users\Jamie Smith\source\repos\Areas\Areas\obj\Debug\Areas.xml
+C:\Users\Jamie Smith\source\repos\Areas\Areas\obj\Debug\Areas.pdb

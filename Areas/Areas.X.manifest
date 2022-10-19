@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="Areas" version="1.0.0.0"></assemblyIdentity>
+  <clrClass clsid="{ed3facbf-3cad-4a98-bc1d-b0106eac52c7}" progid="Areas.StandardAddInServer" threadingModel="Both" name="Areas.Areas.StandardAddInServer" runtimeVersion=""></clrClass>
+  <file name="Areas.dll" hashalg="SHA1"></file>
+</assembly>

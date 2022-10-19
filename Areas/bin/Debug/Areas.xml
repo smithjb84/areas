@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Areas
+</name>
+</assembly>
+<members>
+<member name="M:Areas.Utilities.CreateButtonDefinition(System.String,System.String,System.String,System.String)">
+ <summary>
+ Function to simplify the creation of a button definition.  The big advantage
+ to using this function is that you don't have to deal with converting images
+ but instead just reference a folder on disk where this routine reads the images.
+ </summary>
+ <param name="DisplayName">
+ The name of the command as it will be displayed on the button. 
+ </param>
+ <param name="InternalName">
+ The internal name of the command. This needs to be unique with respect to ALL other
+ commands. It's best to incorporate a company name to help with uniqueness.
+ </param>
+ <param name="ToolTip">
+ The tooltip that will be used for the command.
+ 
+ This is optional and the display name will be used as the
+ tooltip if no tooltip is specified. Like in the DisplayName argument, you can use
+ returns to force line breaks.
+ </param>
+ <param name="IconFolder">
+ The folder that contains the icon files. This can be a full path or a path that is
+ relative to the location of the add-in dll. The folder should contain the files 
+ 16x16.png and 32x32.png. Each command will have its own folder so they can have 
+ their own icons.
+ 
+ This is optional and if no icon is specified then no icon will be displayed on the
+ button and it will be only text.
+ </param>
+ <returns>
+ Returns the newly created button definition or Nothing in case of failure.
+ </returns>
+</member>
+</members>
+</doc>
